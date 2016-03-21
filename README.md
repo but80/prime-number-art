@@ -2,8 +2,8 @@
 
 Converts an image into ASCII art using prime numbers only.
 
-https://gist.githubusercontent.com/but80/b38f97c77a971769e9f0/raw/d82f59b9d7515d3eb19c1de1f6141cf715748b21/shiki.txt
-http://www.nicovideo.jp/watch/sm28470240
+- https://gist.githubusercontent.com/but80/b38f97c77a971769e9f0/raw/d82f59b9d7515d3eb19c1de1f6141cf715748b21/shiki.txt
+- http://www.nicovideo.jp/watch/sm28470240
 
 ## Requirements
 
